@@ -30,7 +30,7 @@
     <string name="approaching_vehicles">List of <b>Approaching Vehicles</b></string>
     <string name="history_of_accidents">Accident History</string>
     <string name="emergency_contacts">Emergency Contacts</string>
-    <string name="cdrrmo_danao_city">CDRRMO-Danao City</string>
+    <string name="cdrrmo_danao_city">DRRMO - Sogod</string>
     <string name="_0930_822_7211">Call : 0930 822 7211</string>
     <string name="safety_precautions">Safety Precautions</string>
     <string name="sp1"><b>Reduce Speed:</b> Slow down before\nentering the blind curve.</string>
@@ -133,5 +133,6 @@
     <string name="_09958736046">09958736046</string>
     <string name="vehicles_going_to_north"><b>VEHICLES GOING TO NORTH</b></string>
     <string name="vehicles_going_to_south"><b>VEHICLES GOING TO SOUTH</b></string>
+    <string name="warning">WARNING! You\'re Entering a Blind Curve Area</string>
 
 </resources>

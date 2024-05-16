@@ -90,6 +90,7 @@
             android:value="AIzaSyAJmRSCXQOUgjmNdskQ4TwLwTgvViW-xNA"/>
 
         <receiver android:name=".broadcastreceiver"
+            android:enabled="true"
             android:exported="true"
             android:permission="TODO">
             <intent-filter>
@@ -101,7 +102,6 @@
             android:name="broadcastreceiver"
             android:foregroundServiceType="location"
             tools:ignore="ForegroundServicePermission" >
-        <!-- Any inner elements would go here. -->
     </service>
 
     </application>

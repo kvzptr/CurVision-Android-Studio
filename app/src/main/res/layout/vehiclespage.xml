@@ -38,7 +38,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="600dp"
+        android:layout_height="match_parent"
         android:orientation="vertical"
         tools:ignore="UseCompoundDrawables">
 
@@ -234,23 +234,23 @@
                 </ScrollView>
             </LinearLayout>
         </LinearLayout>
-    </LinearLayout>
+
 
 
     <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="30dp"
-            android:layout_marginTop="15dp"
-            tools:ignore="TextSizeCheck">
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="15dp"
+        tools:ignore="TextSizeCheck">
 
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:gravity="center"
-                android:letterSpacing="0.3"
-                android:text="@string/drive_catiously"
-                android:textColor="@color/black" />
-        </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:letterSpacing="0.3"
+            android:text="@string/drive_catiously"
+            android:textColor="@color/black" />
+    </LinearLayout>
 
 
     <LinearLayout
@@ -312,4 +312,5 @@
             android:src="@drawable/prof"
             android:background="@drawable/ripple_effect"/>
     </LinearLayout>
+</LinearLayout>
 </LinearLayout>
